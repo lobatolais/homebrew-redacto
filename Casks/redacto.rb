@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "redacto" do
-  version "0.0.1"
-  sha256 "cc71213365e39e6bc7fcd6eb1caa9420b61d2019d1fefe649c01b6bdac72b6e0"
+  version "0.0.2"
+  sha256 "007631df65f063d047758c68e8d5152affe7a291573986e83f638055cc1bd874"
 
   url "https://github.com/lobatolais/Redacto/releases/download/v#{version}/Redacto-#{version}.zip"
   name "Redacto"
